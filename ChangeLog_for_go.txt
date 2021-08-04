@@ -1,0 +1,19 @@
+{"version_code":2056240013,"content":"
+<p> تحديث|Update 20.21.5</p>
+
+
+<li> التحديث لنسخة الماركت 4.20.21 المستقرة.</li>
+<li> اصلاح ميزة حجب المكالمات.</li>
+<li> تفعيل كافة الميزات التجريبية لشركة الواتساب.</li>
+<li> اصلاحات متعلقة باستقرار التطبيق.</li>
+
+
+<li>  New Base Updated to 4.20.21 Stable Base.</li>
+<li>  Enable all hidden features.</li>
+<li>  Fixed Call Blocker.</li>
+<li>  Bugs fixes and speed improvements.</li>
+ 
+
+
+","url":"https://alhusseiny-net.blogspot.com"
+}
